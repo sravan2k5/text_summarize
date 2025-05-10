@@ -23,8 +23,6 @@ Streamlit (optional GUI)
 
 📦 Installation
 bash
-Copy
-Edit
 pip install transformers
 
 📄 Example
